@@ -8,4 +8,4 @@
 
 Discord：icdecoder_58835
 
-<img src="https://github.com/Jaywxy/comeback_oavosupport/tree/main/Introduce_myself/weixin.jpg" alt="图片描述">
+<img src="./Introduce_myself/weixin.jpg" alt="图片描述">
