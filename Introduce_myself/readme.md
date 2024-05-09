@@ -11,7 +11,8 @@
 
 ## 添加我的方式
 
-**Discord：** icdecoder
+**Discord：** icdecoder  
+<img src="weixin.jpg" width="30%">
 
 ## Notice
 
